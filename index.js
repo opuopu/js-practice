@@ -21,3 +21,6 @@ function removeItem(array) {
 
 removeItem(arrays);
 console.log(arrays.includes(10))
+console.log(arrays.includes(10))
+console.log(arrays.includes(10))
+console.log(arrays.includes(10))
