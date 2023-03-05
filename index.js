@@ -9,7 +9,7 @@ const arrays = [10, 20, 20, 30, 10, 20, 50, 40];
 
 function removeItem(array) {
   const unique = [];
-  for (let i = 0; i <array.length; i++) {
+  for (let i = 0; i < array.length; i++) {
     if (unique.includes(array[i]) === false) {
       unique.push(array[i]);
       console.log(unique);
@@ -20,7 +20,10 @@ function removeItem(array) {
 }
 
 removeItem(arrays);
-console.log(arrays.includes(10))
-console.log(arrays.includes(10))
-console.log(arrays.includes(10))
-console.log(arrays.includes(10))
+console.log(arrays.includes(10));
+console.log(arrays.includes(10));
+console.log(arrays.includes(10));
+console.log(arrays.includes(10));
+console.log(arrays.includes(10));
+console.log(arrays.includes(10));
+console.log(arrays.includes(10));
